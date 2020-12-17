@@ -1,5 +1,5 @@
 # Thiết kế website trường Đại học Mỏ-Địa chất
-# 1621050825_NguyenTuanNgoc_DCCTPM61C
+# 1621050825 - Nguyễn Trọng Tấn
 
 ## Bài thực hành 
 Tạo trang web đầu tiên cho người mới bắt đầu
